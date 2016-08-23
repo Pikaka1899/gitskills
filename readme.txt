@@ -2,8 +2,7 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 end
 new merger test
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 new dev test
 
 master 不做存取现场
